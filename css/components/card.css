@@ -1,0 +1,9 @@
+.cards {
+	display: flex;
+  justify-content: space-between;
+  width: 120px;
+}
+
+.card img {
+	width: 120px;
+}
